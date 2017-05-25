@@ -1,0 +1,9 @@
+C:\Users\Wellington\Desktop\Faculdade\Calculadora_WFA\Calculadora_WFA\bin\Debug\Calculadora_WFA.exe.config
+C:\Users\Wellington\Desktop\Faculdade\Calculadora_WFA\Calculadora_WFA\bin\Debug\Calculadora_WFA.exe
+C:\Users\Wellington\Desktop\Faculdade\Calculadora_WFA\Calculadora_WFA\bin\Debug\Calculadora_WFA.pdb
+C:\Users\Wellington\Desktop\Faculdade\Calculadora_WFA\Calculadora_WFA\obj\Debug\Calculadora_WFA.csprojResolveAssemblyReference.cache
+C:\Users\Wellington\Desktop\Faculdade\Calculadora_WFA\Calculadora_WFA\obj\Debug\Calculadora_WFA.Form1.resources
+C:\Users\Wellington\Desktop\Faculdade\Calculadora_WFA\Calculadora_WFA\obj\Debug\Calculadora_WFA.Properties.Resources.resources
+C:\Users\Wellington\Desktop\Faculdade\Calculadora_WFA\Calculadora_WFA\obj\Debug\Calculadora_WFA.csproj.GenerateResource.Cache
+C:\Users\Wellington\Desktop\Faculdade\Calculadora_WFA\Calculadora_WFA\obj\Debug\Calculadora_WFA.exe
+C:\Users\Wellington\Desktop\Faculdade\Calculadora_WFA\Calculadora_WFA\obj\Debug\Calculadora_WFA.pdb
