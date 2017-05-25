@@ -24,6 +24,9 @@ namespace Calculadora_WFA
         {
             Button bt = (Button)sender;
             txt_Valor.Text = txt_Valor.Text + bt.Text;
+
+            Button bt = (Button)sender;
+            txt_Valor.Text = txt_Valor.Text + bt.Text;
         }
     }
 }

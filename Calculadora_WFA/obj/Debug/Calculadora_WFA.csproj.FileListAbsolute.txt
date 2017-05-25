@@ -7,3 +7,12 @@ C:\Users\Wellington\Desktop\Faculdade\Calculadora_WFA\Calculadora_WFA\obj\Debug\
 C:\Users\Wellington\Desktop\Faculdade\Calculadora_WFA\Calculadora_WFA\obj\Debug\Calculadora_WFA.csproj.GenerateResource.Cache
 C:\Users\Wellington\Desktop\Faculdade\Calculadora_WFA\Calculadora_WFA\obj\Debug\Calculadora_WFA.exe
 C:\Users\Wellington\Desktop\Faculdade\Calculadora_WFA\Calculadora_WFA\obj\Debug\Calculadora_WFA.pdb
+E:\Executaveis liberados\Calculadora c#\Calculadora_WFA\bin\Debug\Calculadora_WFA.exe.config
+E:\Executaveis liberados\Calculadora c#\Calculadora_WFA\obj\Debug\Calculadora_WFA.exe
+E:\Executaveis liberados\Calculadora c#\Calculadora_WFA\obj\Debug\Calculadora_WFA.pdb
+E:\Executaveis liberados\Calculadora c#\Calculadora_WFA\bin\Debug\Calculadora_WFA.exe
+E:\Executaveis liberados\Calculadora c#\Calculadora_WFA\bin\Debug\Calculadora_WFA.pdb
+E:\Executaveis liberados\Calculadora c#\Calculadora_WFA\obj\Debug\Calculadora_WFA.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Calculadora c#\Calculadora_WFA\obj\Debug\Calculadora_WFA.Form1.resources
+E:\Executaveis liberados\Calculadora c#\Calculadora_WFA\obj\Debug\Calculadora_WFA.Properties.Resources.resources
+E:\Executaveis liberados\Calculadora c#\Calculadora_WFA\obj\Debug\Calculadora_WFA.csproj.GenerateResource.Cache
